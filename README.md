@@ -33,5 +33,5 @@ My Contributions to the game:
 I added two sound effects. The first sound effect is the sound of an UFO moving and the second is of an asteroid exploding when collecting the object. I also added a particle effect that trails the UFO. 
 
 
-What I have learn from the assignment:
+What I have learned from the assignment:
 From this assignment, I learned how to create simple 2D and 3D games. I also learned how to use Git Bash. Lastly, I learned about scripts and C#. 
